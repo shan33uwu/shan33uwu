@@ -19,10 +19,9 @@
 
 ## 🙋 關於我
 
-- 🎓 一個會**全端工程**的大學生，白天上課晚上寫程式
+- 🎓 一個會**全端工程**的大學生
 - 🤖 **Discord 機器人**開發者，做過地震預警、天氣通知等機器人
-- 🌏 開發**地震預警（EEW）**相關系統，讓通知跑得比搖晃更快
-- 🌱 正在把觸角伸向前端與部署，這個 [個人網站](https://shan33.dpdns.org) 就是最新作品
+- 🌱 [個人網站](https://shan33.dpdns.org) 就是最新作品
 - 💬 找得到我的地方都在下面 👇
 
 <div align="center">
@@ -36,7 +35,7 @@
 
 ---
 
-## 🧰 工具箱
+## ❓ 我會...
 
 <div align="center">
 
@@ -55,62 +54,8 @@
 
 ---
 
-## 🚀 代表作
-
-| 專案 | 說明 |
-| --- | --- |
-| 🌏 [**EEW-DiscordBot**](https://github.com/shan33uwu/EEW-DiscordBot) | 地震預警 Discord 機器人，強震來臨前搶先通知 |
-| 📡 [**CDPS-HTTPEEW**](https://github.com/shan33uwu/CDPS-HTTPEEW) | 中央氣象署 HTTP 地震預警資料處理 |
-| 🌦️ [**FengBao-Discord-Bot**](https://github.com/shan33uwu/FengBao-Discord-Bot) | 風報——天氣資訊 Discord 機器人 |
-| 🎮 [**Space-Survival-Battle**](https://github.com/shan33uwu/Space-Survival-Battle) | 太空生存大作戰 |
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-
-[![EEW-DiscordBot](https://github-readme-stats.vercel.app/api/pin/?username=shan33uwu&repo=EEW-DiscordBot&hide_border=true&bg_color=1B1815&title_color=e8a87c&text_color=ede6d9&icon_color=e8a87c)](https://github.com/shan33uwu/EEW-DiscordBot)
-
-</td>
-<td width="50%">
-
-[![CDPS-HTTPEEW](https://github-readme-stats.vercel.app/api/pin/?username=shan33uwu&repo=CDPS-HTTPEEW&hide_border=true&bg_color=1B1815&title_color=e8a87c&text_color=ede6d9&icon_color=e8a87c)](https://github.com/shan33uwu/CDPS-HTTPEEW)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-[![FengBao-Discord-Bot](https://github-readme-stats.vercel.app/api/pin/?username=shan33uwu&repo=FengBao-Discord-Bot&hide_border=true&bg_color=1B1815&title_color=e8a87c&text_color=ede6d9&icon_color=e8a87c)](https://github.com/shan33uwu/FengBao-Discord-Bot)
-
-</td>
-<td width="50%">
-
-[![Space-Survival-Battle](https://github-readme-stats.vercel.app/api/pin/?username=shan33uwu&repo=Space-Survival-Battle&hide_border=true&bg_color=1B1815&title_color=e8a87c&text_color=ede6d9&icon_color=e8a87c)](https://github.com/shan33uwu/Space-Survival-Battle)
-
-</td>
-</tr>
-</table>
-</div>
-
----
-
-## 📊 GitHub 統計
-
-<div align="center">
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=shan33uwu&show_icons=true&hide_border=true&bg_color=14120f&title_color=e8a87c&text_color=ede6d9&icon_color=e8a87c&include_all_commits=true&count_private=true" />
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shan33uwu&layout=compact&hide_border=true&bg_color=14120f&title_color=e8a87c&text_color=ede6d9&langs_count=8" />
-</div>
-
-<div align="center">
-<img width="70%" src="https://streak-stats.demolab.com?user=shan33uwu&hide_border=true&background=14120F&ring=E8A87C&fire=E8A87C&currStreakLabel=E8A87C&sideLabels=a89d8a&dates=a89d8a&currStreakNum=ede6d9&sideNums=ede6d9" />
-</div>
-
----
-
 ## 🐍 貢獻蛇
 
-<!-- 需先設定 GitHub Actions（見 snake.yml），跑過一次後這張圖才會出現 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shan33uwu/shan33uwu/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shan33uwu/shan33uwu/output/github-contribution-grid-snake.svg" />
@@ -119,4 +64,4 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14120f,100:e8a87c&height=120&section=footer&text=%E6%85%A2%E6%85%A2%E5%81%9A%EF%BC%8C%E4%BD%86%E4%B8%80%E7%9B%B4%E5%9C%A8%E5%81%9A%E3%80%82&fontSize=22&fontColor=ede6d9&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14120f,100:e8a87c&height=120&section=footer&text=想做就做，不多做猶豫&fontSize=22&fontColor=ede6d9&animation=fadeIn" width="100%" />
