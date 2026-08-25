@@ -3,10 +3,10 @@
 使用方式：建立名為 shan33uwu 的 repo（跟帳號同名），把本檔案放進去當 README.md
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8a87c,100:14120f&height=190&section=header&text=Shan33UwU&fontSize=45&fontColor=ede6d9&desc=Hi%2C%20I%27m%20Shan33%20uwu&descSize=16&descColor=e8a87c&descAlignY=70&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8a87c,100:14120f&height=190&section=header&text=Shan33UwU&fontSize=45&fontColor=ede6d9&desc=Hi%2C%20I%27m%20Shan33UwU&descSize=16&descColor=e8a87c&descAlignY=70&animation=fadeIn" width="100%" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+TC&weight=600&size=24&pause=1200&color=E8A87C&center=true&vCenter=true&width=560&lines=%E6%9C%83%E5%85%A8%E7%AB%AF%E5%B7%A5%E7%A8%8B%E7%9A%84%E5%A4%A7%E5%AD%B8%E7%94%9F;Discord+%E6%A9%9F%E5%99%A8%E4%BA%BA%E9%96%8B%E7%99%BC%E8%80%85;%E5%9C%B0%E9%9C%87%E9%A0%90%E8%AD%A6%E7%B3%BB%E7%B5%B1%E9%96%8B%E7%99%BC%E8%80%85;Python%20%E6%98%AF%E6%88%91%E7%9A%84%E6%9C%80%E6%84%9B;%E6%85%A2%E6%85%A2%E5%81%9A%EF%BC%8C%E4%BD%86%E4%B8%80%E7%9B%B4%E5%9C%A8%E5%81%9A%E3%80%82" alt="正在輸入..." />
+  <img src="https://readme-typing-svg.demolab.com/?font=Noto+Sans+TC&weight=600&size=24&pause=1200&color=E8A87C&center=true&vCenter=true&width=560&lines=%E6%9C%83%E5%85%A8%E7%AB%AF%E5%B7%A5%E7%A8%8B%E7%9A%84%E5%A4%A7%E5%AD%B8%E7%94%9F;%E4%B8%80%E7%94%9F%E6%91%AF%E6%84%9B%20Python" alt="正在輸入..." />
 </div>
 
 <div align="center">
@@ -19,17 +19,16 @@
 
 ## 🙋 關於我
 
-- 🎓 一個會**全端工程**的大學生
-- 🤖 **Discord 機器人**開發者，做過地震預警、天氣通知等機器人
-- 🌱 [個人網站](https://shan33.dpdns.org) 就是最新作品
-- 💬 找得到我的地方都在下面 👇
+- 一個會**全端工程**的大學生
+- [個人網站](https://shan33.dpdns.org) 就是最新作品
+- 找得到我的地方都在下面 👇
 
 <div align="center">
 
-[![網站](https://img.shields.io/badge/我的網站-shan33.dpdns.org-e8a87c?style=for-the-badge&logo=firefox&logoColor=white)](https://shan33.dpdns.org)
+[![網站](https://img.shields.io/badge/Website-shan33.dpdns.org-e8a87c?style=for-the-badge&logo=firefox&logoColor=white)](https://shan33.dpdns.org)
 [![YouTube](https://img.shields.io/badge/YouTube-Shan33UwU-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Shan33UwU)
 [![Discord 社群](https://img.shields.io/badge/Discord%20社群-加入-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/WwcTnyQ7T5)
-[![Discord 帳號](https://img.shields.io/badge/Discord-shan33uwu-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/WwcTnyQ7T5)
+[![Discord 帳號](https://img.shields.io/badge/Discord%20帳號-shan33uwu-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/WwcTnyQ7T5)
 
 </div>
 
