@@ -51,16 +51,10 @@
 
 </div>
 
----
-
-## 🐍 貢獻蛇
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shan33uwu/shan33uwu/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shan33uwu/shan33uwu/output/github-contribution-grid-snake.svg" />
   <img alt="contribution snake" src="https://raw.githubusercontent.com/shan33uwu/shan33uwu/output/github-contribution-grid-snake.svg" />
 </picture>
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14120f,100:e8a87c&height=120&section=footer&text=想做就做，不多做猶豫&fontSize=22&fontColor=ede6d9&animation=fadeIn" width="100%" />
